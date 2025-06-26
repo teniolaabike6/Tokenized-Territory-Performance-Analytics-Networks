@@ -400,7 +400,7 @@ A: Plans can be updated or marked as completed. Create a new plan for different 
 - Open source community contributors
 - Territory management industry experts
 
----
+---c
 
 **Built with ❤️ for the territory analytics community**
 
